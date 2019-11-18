@@ -1,0 +1,86 @@
+[
+  {
+    "id": 19112831,
+    "sku": 1120001,
+    "name": "Пицца Пепперони с томатами",
+    "description": "Пицца пепперони - очень популярный вид пиццы как в Европе, так и в Америке. Она получила свое название благодаря основному ингредиенту солями пепперони, который и отличает ее от всех остальных видов пицц. Он имеет острый вкус и при запекании покрывается хрустящей жирной корочкой.",
+    "price": "100",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "25-11-2019",
+    "modified": "25-11-2019",
+    "categories": ["pizza"]
+  },
+  {
+    "id": 19112832,
+    "sku": 1120002,
+    "name": "Пицца Пиратская",
+    "description": "Мясо, соус с ромом",
+    "price": "100",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "25-11-2019",
+    "modified": "25-11-2019",
+    "categories": ["pizza"]
+  },
+  {
+    "id": 19112833,
+    "sku": 1120003,
+    "name": "Пицца Детская",
+    "description": "С молочными сосисками",
+    "price": "180",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "25-11-2019",
+    "modified": "25-11-2019",
+    "categories": ["pizza"]
+  },
+  {
+    "id": 19112834,
+    "sku": 1120004,
+    "name": "Пицца Мексиканская",
+    "description": "Очень острая",
+    "price": "130",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "25-11-2019",
+    "modified": "25-11-2019",
+    "categories": ["pizza"]
+  },
+  {
+    "id": 19112835,
+    "sku": 1120005,
+    "name": "Пицца Индийская",
+    "description": "С соусом кари",
+    "price": "145",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "25-11-2019",
+    "modified": "25-11-2019",
+    "categories": ["pizza"]
+  },
+  {
+    "id": 19112836,
+    "sku": 1120006,
+    "name": "Пицца Гавайская",
+    "description": "Ананас и Курица",
+    "price": "180",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "25-11-2019",
+    "modified": "25-11-2019",
+    "categories": ["pizza"]
+  },
+  {
+    "id": 19112837,
+    "sku": 1120007,
+    "name": "Пицца Цезарь",
+    "description": "С соусом Цезарь",
+    "price": "210",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "25-11-2019",
+    "modified": "25-11-2019",
+    "categories": ["pizza"]
+  }
+]
