@@ -3,11 +3,12 @@ const url = require("url");
 const morgan = require("morgan");
 const router = require("./routers/router");
 const logger = morgan("combined");
+const getRouteHandler = require("./helpers/get-route-helper");
 
 const startServer = port => {
   const server = http.createServer((req, res) => {
     const parsedUrl = url.parse(req.url);
-    const func = router[parsedUrl.pathname] || router.default;
+    const func = getRouteHandler(router, parsedUrl.pathname) || router.default;
     logger(req, res, () => func(req, res));
   });
 
